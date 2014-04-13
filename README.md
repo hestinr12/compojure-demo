@@ -1,6 +1,6 @@
 # demo
 
-FIXME
+This app will spit out the body of a json POST sent to ~/demo (as a string). Just a quirky project for playing around with Clojure, Compojure, and AWS on the weekend!
 
 ## Prerequisites
 
